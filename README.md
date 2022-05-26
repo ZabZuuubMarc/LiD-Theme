@@ -1,4 +1,3 @@
 # Lauert im Dunkeln Discord Theme
 
-This is a Guild theme
- 		
+Das ist ein Discord Theme, welches für die Gilde "Lauert im Dunkeln" vorgesehen ist.
