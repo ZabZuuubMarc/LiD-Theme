@@ -1,0 +1,20 @@
+/**
+* @name LiD Discord Theme
+* @version Auto Update
+* @description None
+* @author Monster Dev
+* @invite 
+* @Source https://github.com/monstrousdev/themes
+* @website https://betterdiscord.app/theme/Reborn
+*/
+@import url("https://monstrousdev.github.io/themes/phoenix-bundle/reborn.css");
+:root {
+--roundness: 50px;
+--main-color: #480000FF;
+--hover-color: #FFFFFFFF;
+--home-color: #EEEEEEFF;
+--home-size: 60px;
+--shadow: #00000066;
+--background-image: url('https://i.imgur.com/jlcrypj.png');
+--background-blur: 0px;
+}
